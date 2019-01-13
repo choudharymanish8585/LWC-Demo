@@ -1,0 +1,10 @@
+<template>
+    <lightning-card title="Resume Creator">
+      <lightning-input label="Skill Name"></lightning-input>
+      <lightning-button label="Add Skill" onclick={addSkill}></lightning-button>
+
+      <template for:each={mySkills} for:item="skill">
+        <p key={skill}>{skill}</p>
+      </template>
+    </lightning-card>
+</template>

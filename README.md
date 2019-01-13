@@ -1,2 +1,14 @@
-# LWC-Demo
-First LWC Demo Project
+# SFDX  App
+
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
